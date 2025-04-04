@@ -31,6 +31,15 @@ Embora o código não esteja funcional devido à censura de informações sensí
         - `Tkinter` para a interface gráfica.
         - `psycopg2` para conexão com o banco de dados PostgreSQL.
         - `pandas` para manipulação de dados.
+
+        ---
+
+        ## Layout do Projeto
+
+        Veja abaixo o layout do sistema de consulta de dados:
+
+        ![Interface do sistema](Layout%20sistema.png)
+      
         - `dotenv` para gerenciamento de variáveis de ambiente.
 - **PostgreSQL:** Banco de dados utilizado para simular as consultas.
 - **Batch Script:** Para automatizar a execução do programa no Windows.
